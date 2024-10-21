@@ -8,4 +8,25 @@
 # Comenta el script.
 # Los nombres de las variables deben contener tu nombre para personalizar el script.
 
-test fasdasd
+
+var_global="aimarmndz"
+
+readonly aimar_readonly="Esta var no puede modificarse"
+
+
+funcion_aimar () {
+
+local aimar_local="Esta variable solo está disponible en esta función"
+
+echo "Variable local $aimar_local"
+
+}
+
+echo "Variable Global: $var_global"
+
+echo "Variable readonly: $aimar_readonly"
+
+funcion_aimar
+
+
+echo "Veremos como no podemos acceder a la var local fuera de la función $aimar_local"
