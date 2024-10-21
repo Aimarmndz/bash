@@ -30,3 +30,8 @@ funcion_aimar
 
 
 echo "Veremos como no podemos acceder a la var local fuera de la función $aimar_local"
+
+
+# Para poder ejecutar el código deberemos darle permisos de ejecución con el comando chmod +x bash.sh
+# Posterior a eso deberás introducir en la terminal ./bash.sh
+
