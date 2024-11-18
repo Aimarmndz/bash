@@ -14,3 +14,4 @@ Este repositorio contiene los retos de la asignatura Implementación de Sistemas
 - Reto 07: [bash.sh](07-Reto/bash.sh)
 - Reto 08: [bash.sh](08-Reto/bash.sh)
 - Reto 09: [bash.sh](09-Reto/bash.sh)
+- Reto 10: [bash.sh](10-Reto/bash.sh)
