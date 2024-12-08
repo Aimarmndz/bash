@@ -15,3 +15,11 @@ Este repositorio contiene los retos de la asignatura Implementación de Sistemas
 - Reto 08: [bash.sh](08-Reto/bash.sh)
 - Reto 09: [bash.sh](09-Reto/bash.sh)
 - Reto 10: [bash.sh](10-Reto/bash.sh)
+- Reto 11: [bash.sh](11-Reto/bash.sh)
+- Reto 12: [bash.sh](12-Reto/bash.sh)
+- Reto 13: [bash.sh](13-Reto/bash.sh)
+- Reto 14: [bash.sh](14-Reto/bash.sh)
+- Reto 15: [bash.sh](15-Reto/bash.sh)
+
+
+
